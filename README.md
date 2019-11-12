@@ -8,13 +8,18 @@
 <a>https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle</a></p>
 
 <p>Modelagem ER:</p>
-<img src="../src/assets/imgs/modelagemER.jgp">
+<img src="../src/assets/imgs/modelagemER.jpg">
 
 
 <h3>Códigos no terminal</h3>
-```
-git clone https://github.com/RafaelxFernandes/Trabalho-BD.git
-cd trabalhoBD
-npm install
-
-```
+<ol>
+    <li>
+        git clone https://github.com/RafaelxFernandes/Trabalho-BD.git
+    </li>
+    <li>
+        cd trabalhoBD
+    </li>
+    <li>
+        npm install
+    </li>
+</ol>

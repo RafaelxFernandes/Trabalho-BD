@@ -6,16 +6,26 @@ import { AppComponent } from './app.component';
 
 import { MaterializeModule } from 'angular2-materialize';
 import { NavbarComponent } from './navbar/navbar.component';
+import { EsportesComponent } from './pages/esportes/esportes.component';
+import { AtletasComponent } from './pages/atletas/atletas.component';
+import { PaisesComponent } from './pages/paises/paises.component';
+import { EventosComponent } from './pages/eventos/eventos.component';
+import { HomeComponent } from './pages/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent
+    NavbarComponent,
+    EsportesComponent,
+    AtletasComponent,
+    PaisesComponent,
+    EventosComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MaterializeModule
+    MaterializeModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

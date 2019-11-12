@@ -5,7 +5,10 @@
 <p>O tema escolhido foi: "Olimpíadas Rio 2016".</p>
 
 <p>Link para o banco de dados original:
-<a>https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle</a></p>
+    <a href="https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle">
+https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
+    </a>
+</p>
 
 <p>Modelagem ER:</p>
 <img src="src/assets/imgs/modelagemER.jpg">

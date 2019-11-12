@@ -1,17 +1,17 @@
-#Trabalho de Banco de Dados
-##UFRJ - 2019.2
-Este repositório é uma aplicação Web para apresentar o conteúdo do banco de dados escolhido ao usuário de maneira agradável.
+<h1>Trabalho de Banco de Dados</h1>
+<h2>UFRJ - 2019.2</h2>
+<p>Este repositório é uma aplicação Web para apresentar o conteúdo do banco de dados escolhido ao usuário de maneira agradável.</p>
 
-O tema escolhido foi: "Olimpíadas Rio 2016".
+<p>O tema escolhido foi: "Olimpíadas Rio 2016".</p>
 
-Link para o banco de dados original:
-https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
+<p>Link para o banco de dados original:
+<a>https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle</a></p>
 
-Modelagem ER:
-> Pegar link
+<p>Modelagem ER:</p>
+<img src="../src/assets/imgs/modelagemER.jgp">
 
 
-###Códigos no terminal
+<h3>Códigos no terminal</h3>
 ```
 git clone https://github.com/RafaelxFernandes/Trabalho-BD.git
 cd trabalhoBD

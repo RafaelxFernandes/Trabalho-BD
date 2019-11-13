@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-atleta-perfil',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AtletaPerfilComponent implements OnInit {
 
-  constructor() { }
+  constructor(public router: Router) { }
 
   ngOnInit() {
+  }
+
+  goToPais(){
+    return this.router.navigate(['./paises/pais-perfil']);
   }
 
 }

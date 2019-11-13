@@ -5,7 +5,7 @@ body{
 .titulo{
     background-color: white;
     /* padding-top: 1%; */
-    color: #E00022;
+    color: #039E38;
     font-size: 42px;
     font-weight: 1000;
 }
@@ -13,7 +13,7 @@ body{
 .info{
     font-size: 20px;
     margin-top: -2%;
-    padding-left: 2%;
+    padding-left: 1%;
 }
 
 .margin-top{
@@ -21,6 +21,6 @@ body{
 }
 
 .lista{
-    margin-top: -2%;
+    margin-top: 2%;
     margin-left: 5%;
 }
